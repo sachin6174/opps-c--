@@ -1,0 +1,32 @@
+1. Intro
+2. object creation 
+3. getters and setters
+4. this keyword
+5. inbuilt constructor and destructor
+6. exercise -> with constructors ,making different classes
+7. shallow and deep copy
+8. copy constructor
+9. initilization list
+10. exercise -> creating a class for bank account ,creating an object of that class and then performing some operations on it . ,creating complex number class and using it to perform different mathematical operations .
+,creating fraction class and using it to perform different mathematical operations .
+
+11. constant function 
+12. static members
+13. operator overloading
+14. dynamic array class
+15. polynomial class 
+16. abstraction and encpsulation
+17. inheritance
+18. order of constructor and destructor call
+19. inheritance type
+20. hybrid inheritance
+21. multiple inheritance
+22. compile time and run time polymorphism
+23. virtual functions and abstract class
+24. friend function and classes
+25. templates and types
+26. pass and return of object from functions
+27. enums and structs
+28. terms and usage in other languages like java, c++, python etc..
+
+//write selextion sort code here in c++
