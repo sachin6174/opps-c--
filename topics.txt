@@ -28,5 +28,3 @@
 26. pass and return of object from functions
 27. enums and structs
 28. terms and usage in other languages like java, c++, python etc..
-
-//write selextion sort code here in c++
